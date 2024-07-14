@@ -1,0 +1,28 @@
+0 Speed limit (5km/h)
+1 Speed limit (15km/h)
+2 Speed limit (30km/h)
+3 Speed limit (40km/h)
+4 Speed limit (50km/h)
+5 Speed limit (60km/h)
+6 Speed limit (70km/h)
+7 Speed limit (80km/h)
+8 Dont go straight or left
+9 Dont go straight
+10 Dont Go Left
+11 Dont Go Left or Right
+12 Dont Go Right
+13 No Uturn
+14 No Car
+15 No Horn
+16 Go straight
+17 Go Left
+18 Go Right
+19 Roundabout Mandatory
+20 Bicycles Crossing
+21 Road Divider
+22 Traffic Signals
+23 Danger Ahead
+24 Children Crossing
+25 ZigZag Curve
+26 Fences
+27 No entry
