@@ -21,6 +21,16 @@ This repository showcases various projects developed during my AI Vision interns
 - **Technologies:** OpenCV, Python, Android/iOS.
 - **Status:** Completed.
 
+### 2. Real-Time Traffic-signs Detection using Phone Camera
+- **Description:** The simplest application that detects traffic-signs in real-time using a phone camera and pre-trained traffic-signs classification model by Teachable Machine with dataset from Kaggle.
+- **Technologies:** OpenCV, Tensorflow, Python, Android/iOS.
+- **Status:** Completed.
+
+### 3. Transfer Learning Exercise
+- **Description:** The simplest implementation of transfer learning for image classification application using the VGG16 deep learning model.
+- **Technologies:** Tensorflow, Python.
+- **Status:** Completed.
+
 ## Installation
 
 To get started with any of the projects, follow these general steps:

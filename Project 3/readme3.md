@@ -1,6 +1,6 @@
 # Transfer Learning
 
-
+The provided code is a step-by-step implementation of transfer learning for an image classification task using the VGG16 deep learning model.
 
 ## Prerequisites
 
